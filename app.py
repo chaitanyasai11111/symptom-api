@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 import pandas as pd
+import os
 
-# Load the CSV file (update the filename if different)
+# Load the CSV file
 df = pd.read_csv("symptom_department_specialist.csv")
 
 app = Flask(__name__)
@@ -26,12 +27,9 @@ def get_department():
 
     return jsonify(response)
 
+# ✅ Proper entry point for Render
 if __name__ == '__main__':
-    app.run(debug=True)
-
-import os
-
-if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 10000))  # Render will assign a port like 10000
+    port = int(os.environ.get("PORT", 10000))
     app.run(host='0.0.0.0', port=port)
+
 
