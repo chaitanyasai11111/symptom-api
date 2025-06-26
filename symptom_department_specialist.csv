@@ -1,0 +1,501 @@
+symptom,department,specialist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
+chest pain,Cardiology,Cardiologist
+itchy skin,Dermatology,Dermatologist
+blurred vision,Ophthalmology,Ophthalmologist
+shortness of breath,Pulmonology,Pulmonologist
+abdominal bloating,Gastroenterology,Gastroenterologist
+joint pain,Rheumatology,Rheumatologist
+memory loss,Neurology,Neurologist
+frequent urination,Urology,Urologist
+irregular heartbeat,Cardiology,Cardiologist
+skin rash,Dermatology,Dermatologist
+weight loss,Endocrinology,Endocrinologist
+fever,General Medicine,General Physician
+yellow eyes,Hepatology,Hepatologist
+back pain,Orthopedics,Orthopedic Surgeon
+dizziness,Neurology,Neurologist
+numbness in fingers,Neurology,Neurologist
+blood in urine,Urology,Urologist
+sore throat,ENT,Otolaryngologist
+hearing loss,ENT,Audiologist
+difficulty swallowing,Gastroenterology,Gastroenterologist
